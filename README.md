@@ -73,12 +73,13 @@ Execute the programs and publish them.
 ## OUTPUT
 ![Screenshot 2024-04-10 174103](https://github.com/kaviya546/NearMe/assets/150368823/26c9c3d2-a113-4034-91b8-764298f40c01)
 
-![alt text](<daisy/mapapp/static/Screenshot 2024-04-10 141518.png>)
-![alt text](<daisy/mapapp/static/Screenshot 2024-04-10 141753.png>)
-![alt text](<daisy/mapapp/static/Screenshot 2024-04-10 141819.png>)
-![alt text](<daisy/mapapp/static/Screenshot 2024-04-10 141938.png>)
+![WhatsApp Image 2024-04-10 at 21 04 58_718e1012](https://github.com/kaviya546/NearMe/assets/150368823/ff465bc9-ce36-42d6-89fb-7e4a9d8c161d)
 
+![WhatsApp Image 2024-04-10 at 21 05 25_db7a3cdb](https://github.com/kaviya546/NearMe/assets/150368823/b3d61057-140e-4129-a91b-80ff48af6f50)
 
+![WhatsApp Image 2024-04-10 at 21 05 41_a0b2e34e](https://github.com/kaviya546/NearMe/assets/150368823/8de28fea-e88e-4b20-a0ab-f719a6e93175)
+
+![WhatsApp Image 2024-04-10 at 21 05 54_c0a3daf4](https://github.com/kaviya546/NearMe/assets/150368823/5487c177-898c-4f05-9084-6623ad64d32f)
 
 
 
